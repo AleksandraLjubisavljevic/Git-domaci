@@ -3,12 +3,6 @@ body {
   color: #666666;
   font-family: "Open Sans", sans-serif;
 }
-img:hover{
-  opacity: 0;
-  height: 110%;
-  width: 110%;
-  transition: 0.5s;
-}
 a {
   color: #d27218;
   transition: 0.5s;
